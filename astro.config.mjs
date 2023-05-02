@@ -36,7 +36,7 @@ export default defineConfig({
         registerType: 'autoUpdate',
         manifest: {
           name: 'ChatGPT-API Demo',
-          short_name: 'ChatGPT Demo',
+          short_name: 'AI Auto-reply Demo',
           description: 'A demo repo based on OpenAI API',
           theme_color: '#212129',
           background_color: '#ffffff',
